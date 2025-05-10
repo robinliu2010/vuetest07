@@ -1,6 +1,6 @@
 <template>
-    <div class="app">
-        <h1>Hello World</h1>
+    <div class="app" style="display: flex;">
+        <h1 style="text-align: center;">你好！</h1>
         <Header />
         <Main />
         <Footer />  
